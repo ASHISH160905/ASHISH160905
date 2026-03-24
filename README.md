@@ -28,7 +28,7 @@ I am a software developer and researcher focused on building seamless mobile exp
 
 **Environment & Others**
 <p align="left">
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
@@ -39,7 +39,7 @@ I am a software developer and researcher focused on building seamless mobile exp
 
 * **[Lipi](https://github.com/ASHISH160905/Lipi):** A React Native mobile app utilizing the **Gemini API** to teach Indian scripts interactively.
 * **Landslide Susceptibility Research:** Evaluating **Classical ML**, **Deep Learning**, and **Quantum ML** models for environmental risk assessment.
-* **Exploratory Data Analysis:** Currently working on specialized EDA pipelines using **Pandas**, **NumPy**, and **Seaborn** to visualize complex datasets.
+* **Data Analytics Work:** Crafting EDA pipelines and statistical visualizations using **Pandas** and **Seaborn**.
 
 ---
 
